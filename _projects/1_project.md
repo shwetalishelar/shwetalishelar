@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Data Visualization 
+title: Citi Bike allocation 
 description: with background image
-img: assets/img/12.jpg
+img: assets/img/citibike.jpg
 importance: 1
 category: work
 related_publications: true
