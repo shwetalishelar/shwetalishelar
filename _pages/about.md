@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: Passionate Professional in Business Intelligence and Business Analysis
+subtitle: Passionate about harnessing data to drive strategic decisions in Business Analytics and Project Management.
 
 profile:
   align: right
   image: sshelar_profile.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p> 1 E Jackson Blvd, <br> Chicago, IL 60604. </p>
 
