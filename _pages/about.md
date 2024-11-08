@@ -16,8 +16,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a passionate professional in Business Intelligence and Business Analysis, with a strong focus on extracting valuable insights from complex datasets and supporting organizations in making informed, data-driven decisions. My enthusiasm extends to designing interactive dashboards that enhance data visualization and empower businesses to make strategic choices.
+I’m a passionate professional in Business Analytics and Project Management, focused on turning complex data into actionable insights. I love creating interactive dashboards that help teams visualize data and make smarter, strategic decisions.
 
-Currently pursuing a Master’s in Business Analytics, I bring a robust background in business analysis, project management, and data analytics. I am proficient in Python, R, SQL, Tableau, and various project management tools. My expertise lies in leveraging data to drive strategic decision-making, optimize business processes, and manage projects effectively to ensure timely and successful delivery.
+Currently, I’m pursuing a Master’s in Business Analytics while leveraging my experience in business analysis, project management, and data analytics. I’m skilled in Python, R, SQL, and Tableau, and I enjoy using these tools to streamline processes and ensure projects are delivered on time.
 
-Holding a Bachelor's degree in Civil Engineering, my experience includes leading data-driven strategies that have significantly improved operational efficiency. I excel in problem-solving, technical analysis, and auto delivery processes. My strong documentation, collaboration, communication skills, and facilitation abilities enable me to work effectively as a business analyst. I am eager to apply my skills in both business analytics and project management to contribute to innovative projects that drive organizational success.
+With a background in Civil Engineering, I’ve led initiatives that boosted operational efficiency. I thrive on problem-solving and collaboration, and I’m excited to apply my skills to projects that drive real impact.
